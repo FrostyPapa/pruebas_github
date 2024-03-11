@@ -1,3 +1,4 @@
+% HECHOS 
 cronos.
 ares.
 hera.
@@ -24,6 +25,8 @@ esMujer(afrodita).
 esMujer(hipolita).
 esMujer(atena).
 esMujer(nera).
+
+% REGLAS
 
 esDescendienteDirecto(hera, cronos).
 esDescendienteDirecto(afrodita, ares).
